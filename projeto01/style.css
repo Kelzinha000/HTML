@@ -1,0 +1,13 @@
+.cor{
+    color: purple;
+}
+
+.borda {
+    color: plum ;
+    text-shadow: 
+    -2px -2px 1px black, 
+    -2px 2px 1px black,                    
+     2px -2px 1px black,                  
+     2px 1px 1px black;
+}
+
