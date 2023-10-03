@@ -1,0 +1,27 @@
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(46, 139, 86);
+    background-color: rgb(18%, 54.4%, 87%); /* % TONALIDADE DA COR. CERTISSIMO PORCENTAGEM*/
+    background-color: rgba(18%, 54.4%, 87%, 0.6);  /*Alpha do  0 até o 1 */
+
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: #ff0000;       /* HEXADECIMAL VALOR DO 0 ATÉ O 9  - RGB) . E DE A Á F */
+    background-color: #00FF00;   
+    background-color: #000;    /*se os valores forem iguais : pode abreviar para uma*/
+    background-color: #0FF5; 
+   
+
+}
+/*PARA PROJETOS O IDEAL É RGB OU HEXADECIMAL 
+PARA IMPRIMIR O IDEAL É HEXADECIMAL*/
+
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: hsl(120, 75%, 50%);
+
+}
