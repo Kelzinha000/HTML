@@ -1,0 +1,33 @@
+
+    body{
+        background-color: black;
+    }
+    
+    
+    
+    div{
+        height: 300px;
+        border: 1px solid  black;
+    }
+
+
+.box1{
+    background-image: url("/projeto02/img/capa.jpg");
+}
+
+.fundoPalavra{
+    background-color: grey
+
+}
+.corPalavra{
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.centralizar{
+    text-align: center;
+}

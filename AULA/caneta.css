@@ -1,8 +1,27 @@
-h1 {
-    color: white;
+body{
+    background-color: rgb(13, 135, 216);
 }
 
-p {
-    background-color: aqua;
-}
+.titulo{
+    font-size: 150px;
+        color: white ;
+        text-shadow: 
+        -3px 3px black, 
+        -3px 3px 2px black,                    
+        3px -3px 2px black,                  
+        3px 3px 2px black;
+    }
 
+    .fundoPalavra{
+        background-color: rgb(81, 199, 199);
+    }
+    
+    .corPalavra{
+        color: white;
+    }
+    a{
+        color: white;
+        text-align: none;
+        font-size: 35px;
+
+    }
