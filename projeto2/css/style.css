@@ -1,0 +1,32 @@
+:root {
+    --black: #000;
+    --gray: #708090;
+    --white: #FFF;
+}
+
+.container{
+    border: 2px solid red;
+    width: 900px;
+    background-color: #000;
+}
+
+nav{
+    background-color: var(--gray);
+    padding: 1rem;
+}
+.nav-link{
+    text-decoration: none;
+    color: var(--white);
+    font-weight: bold;
+
+}
+
+article{
+    padding: 0.8rem;
+    background-color: var(--black);
+    color: var(--white);
+}
+footer{
+    text-align: center;
+    color: var(--white);
+}

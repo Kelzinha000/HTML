@@ -1,0 +1,20 @@
+nav{
+    background-color: rgb(187, 161, 113);
+    padding: 1rem;
+}
+
+a{
+    color: aliceblue;
+    padding: 2px;
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+}
+article{
+    background-color: cornsilk;
+}
+.container{
+    background-color: cornsilk;
+}
