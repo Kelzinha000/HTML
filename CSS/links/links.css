@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+    color: palevioletred;
+    background-color: black;
+    transition: 0.5s;
+}
+a:hover{
+ background-color: crimson;
+ color: bisque;
+ /* font-size: 30px; */
+ /* display: none; */
+ 
+ 
+}
+
+
+/* a:link{
+    color: #fff;
+
+}
+a:visited{
+    color: blueviolet;
+} */

@@ -1,0 +1,27 @@
+div{
+    border: 3px  solid black;
+    width: 200px;
+    height: 200px;
+    font-size: 20px;
+    padding: 2rem  4rem;
+    margin: 0 auto;            /* Centralizar caixar*/
+}
+
+h2{
+    border: 2px  solid red;
+   /*mudar o tipo desse elemento.*/
+   display: inline;
+}
+
+a{
+    border: 2px  solid blue;
+    display: block;
+}
+.box-01{
+    margin:  2rem auto;
+    display: inline-block;
+}
+.box-02{
+    margin:  2rem auto;  /*Margem colapse vai adquirir o valor da maior margem*/
+    display: inline-block;
+}
