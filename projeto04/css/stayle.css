@@ -1,0 +1,71 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+} 
+.box-1{
+ border-radius: 8px;
+ background-color: hsl(0, 0%, 100%);
+width: 550px;
+height: 400px;
+margin: 100px;
+
+}
+.fonte{
+width: 255px;
+height: 400px; 
+float: inline-end;
+text-align:left;
+text-align: center;
+margin-left: 10px;
+
+} 
+.fonte-perfume{
+    text-align: left;
+    color: hsl(228, 12%, 48%);
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 5px;
+    font-weight: 200;
+}
+
+.titulo{
+    
+}
+.paragrafo{
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+    font-weight: 300;
+    text-align: left;
+}
+
+.img{
+    justify-content: flex-start;
+    display: inline-block;
+}
+.fonte-preco{
+    font-family: 'Fraunces', serif;
+    color: hsl(147, 74%, 18%);
+    text-align: left;
+}
+.fonte-preco2{
+    text-align: right;
+    text-decoration: line-through;
+    color: hsl(228, 12%, 48%);
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: 200;  
+}
+.button{
+    background-color: hsl(147, 74%, 18%);
+    width:225 ;
+    padding: 15px;
+    color: azure;
+    border-radius: 8px;
+    margin: 5px;
+   
+}
+
