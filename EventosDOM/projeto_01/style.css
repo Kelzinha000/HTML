@@ -7,3 +7,14 @@
   color: white;
 
 }
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+label{
+    font-size: 23px;
+    font-family: cursive;
+}
