@@ -10,9 +10,9 @@ document.querySelector("button").textContent = textoBotao;
 const botao= document.querySelector(button)
 
 if(isDarkMode == true){
-      document.button
+      botao.textContent= "Modo Claro"
 }else{
-
+      botao.textContent = "Modo escuro"
 }
 
-}
+} 
