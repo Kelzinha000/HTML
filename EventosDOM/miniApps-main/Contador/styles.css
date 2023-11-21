@@ -188,12 +188,6 @@ main {
   color: var(--clr-white);
   background: var(--clr-black);
 }
-.vermelho{
-  color: red;
-}
-.verde{
-  color: green
-}
-.cinza{
-  color: grey;
+#gradiente{
+  background-color: linear-gradient(red, yellow);
 }
