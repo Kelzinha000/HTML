@@ -1,0 +1,49 @@
+body{
+background-color: hsl(0,100%, 74%);
+background-image: url(./IMG/bg-intro-desktop.png); 
+}
+.texto{
+    color: white;
+    max-width: 350px;
+    margin: 100px;
+    display: inline;
+    float: left;
+    padding: 10px;
+
+}
+h1{
+    font-size: 40px;
+}
+section{
+    display: flex;
+    align-content: end;
+    min-height: 400px;
+    max-width: 500px;
+    margin: 90px auto;
+    background-color:white;
+    border-radius: 15px;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    text-align: end;
+    margin: 0 auto;
+    color:  hsl(0,100%, 74%);
+    
+    
+}
+input{
+    border-color: hsl(0,100%, 74%);
+    margin: 13px 0;
+    width: 400px;
+    height: 40px;
+   
+    
+}
+button{
+    background-color: hsl(154, 59%, 51%);
+    border-color: hsl(154, 59%, 51%); 
+    width: 400px;
+    height: 40px;
+   margin: 20px;
+}
